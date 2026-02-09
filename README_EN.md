@@ -31,5 +31,15 @@ The application allows:
    git clone https://github.com/your-username/your-project.git
 
 
-     ```mysql -u user -p database_name < schema.sql
-   ```
+    2. Import the database:
+
+Use the provided schema.sql file to create tables and structure.
+
+Import via phpMyAdmin or command line:
+
+mysql -u user -p database_name < schema.sql
+
+3. Configure the database connection in Database.php (host, dbname, user, password).
+
+4. Deploy the files on a local server (e.g., XAMPP, MAMP) or remote server supporting PHP.
+   
