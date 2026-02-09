@@ -27,9 +27,17 @@ L’application permet :
 ## Installation
 
 1. Cloner ce dépôt :  
-   ```bash
+  
    git clone https://github.com/ton-utilisateur/nom-du-projet.git
 
-   2. Importer la base de données :
+2. Importer la base de données :
 
-   mysql -u utilisateur -p nom_base < schema.sql  ```
+Utiliser le fichier schema.sql fourni pour créer les tables et la structure.
+
+Importer via phpMyAdmin ou en ligne de commande :
+
+   mysql -u utilisateur -p nom_base < schema.sql
+
+3. Configurer la connexion à la base dans le fichier Database.php (host, dbname, user, password).
+
+4. Déployer les fichiers sur un serveur local (ex: XAMPP, MAMP) ou distant supportant PHP.
