@@ -1,17 +1,17 @@
 Pour la version anglaise, cliquez ici : [README_EN.md](README_EN.md)
 
-# Application de Réservation d'Hôtel - PHP & SQL
+# Application de gestion pour école - PHP & SQL
 
 ## Description
 
-Cette application simple permet de gérer la réservation de chambres d’hôtel.  
-Elle est développée en PHP orienté objet et utilise une base de données MySQL pour stocker les informations des clients, hôtels, chambres et réservations.
+Cette application permet de gérer les élèves inscrits dans une école ainsi que leur participation aux activités sportives.  
+Elle est développée en PHP orienté objet avec une base de données SQL pour stocker les informations des élèves, des sports, et leurs inscriptions.
 
-L’application permet :  
-- La gestion des clients (nom, email)  
-- La gestion des hôtels (nom, adresse)  
-- La gestion des chambres (numéro et hôtel associé)  
-- La création et consultation des réservations avec dates de début et fin  
+Fonctionnalités principales :  
+- Gestion des élèves (nom, prénom, classe)  
+- Gestion des sports proposés par l’école  
+- Association des élèves aux sports via des inscriptions  
+- Consultation des listes d’élèves par sport et vice-versa  
 
 ---
 
