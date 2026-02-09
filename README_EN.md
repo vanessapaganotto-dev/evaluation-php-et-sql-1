@@ -1,17 +1,17 @@
 For the French version of this README, please [click here](README.md).
 
-# Hotel Booking Application - PHP & SQL
+# School Management Application - PHP & SQL
 
 ## Description
 
-This simple application manages hotel room bookings.  
-It is developed in object-oriented PHP and uses a MySQL database to store information about clients, hotels, rooms, and reservations.
+This application manages students enrolled in a school as well as their participation in sports activities.  
+It is developed in object-oriented PHP with a SQL database to store information about students, sports, and their registrations.
 
-The application allows:  
-- Management of clients (name, email)  
-- Management of hotels (name, address)  
-- Management of rooms (room number and associated hotel)  
-- Creation and viewing of reservations with start and end dates  
+Main features include:  
+- Management of students (first name, last name, class)  
+- Management of sports offered by the school  
+- Associating students with sports via registrations  
+- Viewing lists of students by sport and sports by student  
 
 ---
 
