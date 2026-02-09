@@ -27,9 +27,9 @@ The application allows:
 ## Installation
 
 1. Clone this repository:  
-   ```
+ 
    git clone https://github.com/your-username/your-project.git
 
 
-   mysql -u user -p database_name < schema.sql
+     ```mysql -u user -p database_name < schema.sql
    ```
