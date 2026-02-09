@@ -31,4 +31,4 @@ The application allows:
    git clone https://github.com/your-username/your-project.git
 
 
-   mysql -u user -p database_name < schema.sql  ```
+   mysql -u user -p database_name < schema.sql ```
