@@ -31,7 +31,7 @@ The application allows:
    git clone https://github.com/your-username/your-project.git
 
 
-    2. Import the database:
+2. Import the database:
 
 Use the provided schema.sql file to create tables and structure.
 
