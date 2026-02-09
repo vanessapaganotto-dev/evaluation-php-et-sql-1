@@ -1,3 +1,5 @@
+Pour la version anglaise, cliquez ici : [README_EN.md](README_EN.md)
+
 # Application de Réservation d'Hôtel - PHP & SQL
 
 ## Description
@@ -30,4 +32,4 @@ L’application permet :
 
    2. Importer la base de données :
 
-   mysql -u utilisateur -p nom_base < schema.sql
+   mysql -u utilisateur -p nom_base < schema.sql  ```
